@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "this image is fucking dumb",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:838.898193359375,708.5185546875,375.6259765625,270.4508056640625"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "adccabf9"
+  }
+]
