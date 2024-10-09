@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "793a6c9d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The white lily is a symbol of purity. Its petals are unwilted, untouched by time and death, as Elaine is. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1259.88671875,880.9530639648438,129.8731689453125,86.77618408203125"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb0bdff3"
   }
 ]
