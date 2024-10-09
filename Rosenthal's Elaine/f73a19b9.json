@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The color white on and surrounding the form of Elaine is unstained, as pure and perfect as she is. It is in stark contrast to the darkness of the murky water beneath. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:661.9898071289062,688.55810546875,618.6653442382812,453.68798828125"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "96add2e6"
+  }
+]
