@@ -4,6 +4,27 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Elaine's body, the table she rests upon, and the flowers adorning the boat are lit by an unseen source. It seems that Elaine herself is emanating light, glowing with life despite the death that surrounds her. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:628.547607421875,663.4434814453125,1492.487548828125,618.5308837890625"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f840ca8d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "The color white on and surrounding the form of Elaine is unstained, as pure and perfect as she is. It is in stark contrast to the darkness of the murky water beneath. ",
         "purpose": "commenting"
       }
@@ -25,7 +46,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Elaine's body, the table she rests upon, and the flowers adorning the boat are lit by an unseen source. It seems that Elaine herself is emanating light, glowing with life despite the death that surrounds her. ",
+        "value": "Elaine's skin glows in its paleness. The smooth and unblemished surface takes on a porcelain finish, emphasizing her feminine fragility. ",
         "purpose": "commenting"
       }
     ],
@@ -34,11 +55,11 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:628.547607421875,663.4434814453125,1492.487548828125,618.5308837890625"
+        "value": "xywh=pixel:839.9598388671875,710.4722900390625,390.4720458984375,243.54180908203125"
       },
       "id": "f73a19b9"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "f840ca8d"
+    "id": "793a6c9d"
   }
 ]
