@@ -6,3 +6,20 @@
 The depiction of Elaine herself is an idealized and streamlined form of flowing line and glowing paleness. Despite being exposed to the destructive force of death, she is unmarred. 
 .ve-media https://api.artic.edu/api/v1/artworks/72320/manifest.json
   
+  
+
+ # yes
+ 
+.ve media https://iiif.archivelab.org/iiif/%3cidentifier%3e/manifest.json
+ 
+# Pre-Raphaelite Influence
+.ve-media wc:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg right
+
+the preraphs influenced
+ 
+
+
+
+
+
+
