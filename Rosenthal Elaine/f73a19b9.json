@@ -103,5 +103,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "694e57de"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "One flower falls into the water, its perfect beauty soon to be lost just like Elaine. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:283.68792724609375,1517.99658203125,404.41607666015625,106.2103271484375"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3eecb887"
   }
 ]
