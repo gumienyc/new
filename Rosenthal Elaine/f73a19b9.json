@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "fbfd45b6"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The white bird is a symbol of purity and innocence. It's departure from the scene marks the similar departure of Elaine, and her perfection, from the world of the living. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2469.1689453125,178.1128692626953,202.208251953125,138.8904266357422"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "606c00f3"
   }
 ]
