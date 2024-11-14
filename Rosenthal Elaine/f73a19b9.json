@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f4a8149e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Elaine's skin glows in its paleness. The smooth and unblemished surface takes on a porcelain finish, emphasizing her feminine fragility. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:796.3568725585938,670.3567504882812,461.60626220703125,283.90826416015625"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "694e57de"
   }
 ]
