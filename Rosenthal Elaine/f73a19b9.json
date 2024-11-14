@@ -145,5 +145,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "43e4eee6"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In her hand she clutches a letter for her love Lancelot, who did not return her affections. Heartbreak from this realization caused Elaine's death. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1004.6924438476562,711.2068481445312,165.44293212890625,85.7852783203125"
+      },
+      "id": "f73a19b9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0d8a19e6"
   }
 ]
