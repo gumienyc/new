@@ -51,12 +51,12 @@ The poignancy of Rosenthal's work was felt deeply by contemporary viewers of the
 [Art Institute of Chicago: The Phenomenon of Elaine](https://www.artic.edu/articles/948/the-phenomenon-of-elaine)
 
 # Footnotes
-[^1] *Elaine* Toby Edward Rosenthal (https://www.artic.edu/artworks/72320/elaine), The Art Institute of Chicago, Accessed 10 December 2024.
+[^1]: *Elaine* Toby Edward Rosenthal (https://www.artic.edu/artworks/72320/elaine), The Art Institute of Chicago, Accessed 10 December 2024.
 
-[^2] Terry Riggs, "Collection Text", *Ophelia*  Sir John Everett Millais, (https://www.tate.org.uk/art/artworks/millais-ophelia-n01506), Tate Gallery, London. February 1998.
+[^2]: Terry Riggs, "Collection Text", *Ophelia*  Sir John Everett Millais, (https://www.tate.org.uk/art/artworks/millais-ophelia-n01506), Tate Gallery, London. February 1998.
 
-[^3] Kristi Janelle Castleberry, "Elaine of Astolat/The Lady of Shalott" (https://d.lib.rochester.edu/camelot/theme/elaine-of-astalot) University of Rochester, The Camelot Project, Accessed 10 December 2024. 
+[^3]: Kristi Janelle Castleberry, "Elaine of Astolat/The Lady of Shalott" (https://d.lib.rochester.edu/camelot/theme/elaine-of-astalot) University of Rochester, The Camelot Project, Accessed 10 December 2024. 
 
-[^4] Alfred, Lord Tennyson, "The Lady of Shalott (1832)", (https://www.poetryfoundation.org/poems/45359/the-lady-of-shalott-1832), Poetry Foundation, Chicago. Accessed 10 December 2024.
+[^4]: Alfred, Lord Tennyson, "The Lady of Shalott (1832)", (https://www.poetryfoundation.org/poems/45359/the-lady-of-shalott-1832), Poetry Foundation, Chicago. Accessed 10 December 2024.
 
-[^5] Virginie Greene, "How the Demoiselle d'Escalot Became a Picture", (https://www.jstor.org/stable/27870446), *Arthuriana*  23, No.3, pp. 31-48, Fall 2002. 
+[^5]: Virginie Greene, "How the Demoiselle d'Escalot Became a Picture", (https://www.jstor.org/stable/27870446), *Arthuriana*  23, No.3, pp. 31-48, Fall 2002. 
