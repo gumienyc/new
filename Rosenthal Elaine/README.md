@@ -39,15 +39,9 @@ All but her face, and that clear-featured face
 Was lovely, for she did not seem as dead,
 But fast asleep, and lay as though she smiled."
 In her right hand the lily, in her left
-The letter--all her bright hair streaming down--
-And all the coverlid was cloth of gold
-Drawn to her waist, and she herself in white
-All but her face, and that clear-featured face
-Was lovely, for she did not seem as dead,
-But fast asleep, and lay as though she smiled."
 
 
-[Idylls of the King: Lancelot and Elaine](https://en.wikisource.org/wiki/Idylls_of_the_King/Lancelot_and_Elaine)
+     [Idylls of the King: Lancelot and Elaine](https://en.wikisource.org/wiki/Idylls_of_the_King/Lancelot_and_Elaine)
 
 Reading this portion of Idylls of the King reveals the empahsis on the tragic aspects of Elaine's Death in Tennyson's work paralleled in Rosenthal's *Elaine* and its inclusion of an incredible darkness encroaching on Elaine's light. The sadness is felt in the departure of the white bird, the fallen flower, and the forlorn expression on Elaine's pale face. 
 
