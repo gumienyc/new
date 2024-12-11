@@ -50,7 +50,6 @@ The poignancy of Rosenthal's work was felt deeply by contemporary viewers of the
  
 [Art Institute of Chicago: The Phenomenon of Elaine](https://www.artic.edu/articles/948/the-phenomenon-of-elaine)
 
-# Footnotes
 [^1]: *Elaine* Toby Edward Rosenthal (https://www.artic.edu/artworks/72320/elaine), The Art Institute of Chicago, Accessed 10 December 2024.
 
 [^2]: Terry Riggs, "Collection Text", *Ophelia*  Sir John Everett Millais, (https://www.tate.org.uk/art/artworks/millais-ophelia-n01506), Tate Gallery, London. February 1998.
