@@ -19,6 +19,7 @@ Artist ==John William Waterhouse=={Q212754} depicts Elaine in another imagining.
 # Arthurian Legend
 .ve-media wc:Alfred_Tennyson,_1st_Baron_Tennyson_by_George_Frederic_Watts.jpg right
 
+
 ==Alfred Lord Tennyson=={Q173869} created many Arthurian works of literature, inspired by the Legend of King Arthur. His works would be a source of inspiration for the Pre-Raphaelites. Reading ==Idylls of The King=={Q2227196} we can observe how Tennyson reimagines the legend of King Arthur and goes into depth with specific characters, including one section titled "Lancelot and Elaine". Elaine is frequently equated with fairness and perfection, even called the "lily maid of Astolat". This idealism captured in Tennyson's written word was a clear focus of Rosenthal's *Elaine*  as well as Waterhouse and Millais works. The female subject of Elaine - and Ophelia in Millais' case - is upheld primarily for her beauty and perfection. 
 
 "From forehead down to foot, perfect--again
