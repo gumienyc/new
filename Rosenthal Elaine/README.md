@@ -32,8 +32,8 @@ Again and like a burthen, 'Him or death.'"
 
 The description of her corpse laid upon the boat can be aligned almost exactly with the painting by Rosenthal. Her beauty and perfection in death were so vividly described that they demanded capturing in an image like *Elaine*.[^5]
 
-"In her right hand the lily, in her left the letter--all her bright hair streaming down--and all the coverlid was cloth of gold drawn to her waist, and she herself in white all but her face, and that clear-featured face was lovely, for she did not seem as dead, but
-fast asleep, and lay as though she smiled."
+"In her right hand the lily, in her left the letter--all her bright hair streaming down--and all the coverlid was cloth of gold drawn to her waist, and she herself in white all but her face, and that clear-featured face was lovely, for she did not seem as dead,
+but fast asleep, and lay as though she smiled."
 
 [Idylls of the King: Lancelot and Elaine](https://en.wikisource.org/wiki/Idylls_of_the_King/Lancelot_and_Elaine)
 
